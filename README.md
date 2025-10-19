@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋, I'm Anush Suru<br>A passionate Software developer 💻
 
 
