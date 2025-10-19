@@ -1,4 +1,4 @@
-Hi 👋, I'm Anush Suru<br>A passionate Software developer 💻
+# Hi 👋, I'm Anush Suru<br>A passionate Software developer 💻
 
 
 ## 🌐 Socials:
